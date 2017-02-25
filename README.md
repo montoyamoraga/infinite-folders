@@ -18,4 +18,4 @@ python infinite_folders.py
 
 [infinite_]
 
-![infinite_folders_screenshot](https://github.com/montoyamoraga/project_infinite_folders/raw/master/src/infinite_folders_screenshot.png "infinite folders screenshot")
+![infinite_folders_screenshot](https://github.com/montoyamoraga/project_infinite_folders/raw/master/infinite_folders_screenshot.png "infinite folders screenshot")
