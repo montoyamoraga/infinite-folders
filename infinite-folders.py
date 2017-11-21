@@ -30,7 +30,7 @@ def makeFolders(dirname, letters):
         #send the command to the terminal
         system(command)
         #print to the terminal the name of the just created folder
-        message = "created the directory " + dirname
+        message = "created the folder " + dirname
         print(message)
 
 # infnite loop
