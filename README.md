@@ -20,4 +20,6 @@ python infinite-folders.py
 
 ![infinite_folders_screenshot](https://github.com/montoyamoraga/project_infinite_folders/raw/master/documentation/infinite_folders_screenshot.png "infinite folders screenshot")
 
-[infinite_folders on vimeo](https://vimeo.com/205716740)
+[![infinite-folders]https://github.com/montoyamoraga/project_infinite_folders/raw/master/documentation/infinite_folders_screenshot.png](https://vimeo.com/205716740)
+
+[infinite-folders demo](https://vimeo.com/205716740)
