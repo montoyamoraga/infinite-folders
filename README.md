@@ -2,15 +2,18 @@
 
 ## About
 
-This project is a Python script that when executed, starts creating new folders, it goes on infinitely and as fast as it can, in an alphabetical order, starting in a, and so on.
-
 This project was done by Aarón Montoya-Moraga on Saturday February 25th, 2017 at the [Stupid Hackathon](stupidhackaton.com).
 
-This program can executed from the terminal and runs on Python 2.x and 3.x
+It is a Python script that when executed, starts creating infinite new folders.
+
+It can be executed from the terminal and runs on Python 2.x and 3.x
 
 ## Instructions
 
-Download or clone this repository, open the terminal, cd into the folder and execute the script with python, with the following command:
+* Download or clone this repository
+* open the terminal
+* cd into the folder
+* execute the script with python
 
 ```shell
 python infinite-folders.py
