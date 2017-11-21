@@ -21,4 +21,4 @@ python infinite-folders.py
 
 ## Documentation
 
-[![infinite-folders](https://github.com/montoyamoraga/project_infinite_folders/raw/master/documentation/infinite_folders_screenshot.png)](https://vimeo.com/205716740)
+[![infinite-folders](https://github.com/montoyamoraga/project_infinite_folders/raw/master/documentation/infinite_folders.png)](https://vimeo.com/205716740)
