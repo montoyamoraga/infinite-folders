@@ -15,22 +15,22 @@ system("clear")
 #get all of the ascii characters in lowercase
 letters = string.ascii_lowercase
 
-#initialize dirname as blank
-dirname = ""
+#initialize foldername as blank
+foldername = ""
 
 #function definition of makeFolders
 #arguments are the current foldername and the ascii letters
-def makeFolders(dirname, letters):
+def makeFolders(foldername, letters):
     #for every letter
     for letter in letters:
         #append the current letter to the current foldername
-        dirname = dirname + letter
+        foldername = foldername + letter
         #build command to pass to the terminal
-        command = "mkdir " + dirname
+        command = "mkdir " + foldername
         #send the command to the terminal
         system(command)
         #print to the terminal the name of the just created folder
-        message = "created the folder " + dirname
+        message = "created the folder " + foldername
         print(message)
 
 # infnite loop
@@ -38,6 +38,6 @@ while(True):
     # for every letter
     for letter in letters:
         # append a new letter to the foldername
-        dirname = dirname + letter
+        foldername = foldername + letter
         # call to the function to create new folders
-        makeFolders(dirname, letters);
+        makeFolders(foldername, letters);
