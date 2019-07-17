@@ -26,11 +26,11 @@ def makeFolders(foldername, letters):
         #append the current letter to the current foldername
         foldername = foldername + letter
         #build command to pass to the terminal
-        command = "mkdir " + foldername
+        command = (f"mkdir ${foldername}")
         #send the command to the terminal
         system(command)
         #print to the terminal the name of the just created folder
-        message = "created the folder " + foldername
+        message = (f"created the folder ${foldername}")
         print(message)
 
 # infnite loop
